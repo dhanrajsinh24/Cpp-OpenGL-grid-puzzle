@@ -28,3 +28,9 @@ Queens is a logic game where you need to fill the grid so that there is only one
 3. **Compile the Code**:
    - Run the following command to compile the code:
    - mingw32-make
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the software.
+
+See the [LICENSE](LICENSE) file for more details.
