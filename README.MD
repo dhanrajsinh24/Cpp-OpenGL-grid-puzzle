@@ -17,7 +17,7 @@ Queens is a logic game where you need to fill the grid so that there is only one
 ## Installation
 
 1. **Install MinGW**:
-   - Download and install MinGW from the [official website](http://www.mingw.org/).
+   - Download and install MinGW from the [official website](https://www.mingw-w64.org/downloads/).
    - During installation, make sure to select `mingw32-gcc-g++` and `mingw32-make` from the package list.
 
 2. **Set Environment Variables**:
