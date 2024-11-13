@@ -1,0 +1,73 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.suo
+*.opt
+*.plg
+
+# Compiled resource files
+*.res
+*.rc
+
+# CMake specific files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+# Makefile
+CMakeLists.txt.user
+
+# CodeLite project files
+*.tags
+*.tags1
+
+# Other IDE project files
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+*.pro.user.*
+
+# Visual Studio/VS Code settings
+.vscode/
+*.code-workspace
+*.vcxproj.user
+*.sln
+
+# Mac OS generated files
+.DS_Store
+
+# Backup & temporary files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Directories
+build/
+bin/
