@@ -1,6 +1,6 @@
-# Project Title
+# C++ OpenGL Grid Puzzle Game - Queens (linkedin)
 
-A brief description of what this project does and who it's for.
+Queens is a logic game where you need to fill the grid so that there is only one Queen per row, column, and colored region.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -28,5 +28,3 @@ A brief description of what this project does and who it's for.
 3. **Compile the Code**:
    - Run the following command to compile the code:
    - mingw32-make
-
-
