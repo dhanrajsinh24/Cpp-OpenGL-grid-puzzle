@@ -9,25 +9,18 @@ Queens is a logic game where you need to fill the grid so that there is only one
 - [License](#license)
 
 ### Prerequisites
-- MinGW installed on your Windows system
+- OpenGL
+- MinGW-w64
+- CMake
+- FreeGLUT
+- GLEW
 
 ## Rules
 - https://www.linkedin.com/help/linkedin/answer/a6269510
 
 ## Installation
-
-1. **Install MinGW**:
-   - Download and install MinGW from the [official website](https://www.mingw-w64.org/downloads/).
-   - During installation, make sure to select `mingw32-gcc-g++` and `mingw32-make` from the package list.
-
-2. **Set Environment Variables**:
-   - Go to System Properties > Advanced > Environment Variables.
-   - Find the `Path` variable in the "System variables" section and click `Edit`.
-   - Add the path to your MinGW `bin` directory (e.g., `C:\MinGW\bin`) to the `Path`.
-
-3. **Compile the Code**:
-   - Run the following command to compile the code:
-   - mingw32-make
+- Please follow this step by step guide to install required libraries and build / run the project:
+- https://medium.com/@bhargav.chippada/how-to-setup-opengl-on-mingw-w64-in-windows-10-64-bits-b77f350cea7e
 
 ## License
 
